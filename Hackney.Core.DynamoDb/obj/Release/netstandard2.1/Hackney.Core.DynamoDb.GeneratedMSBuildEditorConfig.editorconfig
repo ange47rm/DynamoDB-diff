@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Hackney.Core.DynamoDb
+build_property.ProjectDir = C:\git\lbh-core\Hackney.Core\Hackney.Core.DynamoDb\
